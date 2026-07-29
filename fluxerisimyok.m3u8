@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:12
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:11.900000,
-fluxerisimyok0.ts
+https://github.com/fluxservertvdepo/hls/raw/refs/heads/main/fluxerisimyok0.ts
 #EXTINF:12.233333,
-fluxerisimyok1.ts
+https://github.com/fluxservertvdepo/hls/raw/refs/heads/main/fluxerisimyok1.ts
 #EXT-X-ENDLIST
